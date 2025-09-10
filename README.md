@@ -44,11 +44,10 @@ After transitioning into an IT career,  I have developed a strong passion for cy
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-107C10?&style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Certified" />
 <img src="https://img.shields.io/badge/-THM%20SOC%20Level%201-000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCM%20PSAA%20(In%20Progress)-000080?&style=for-the-badge&logoColor=white" />
 
