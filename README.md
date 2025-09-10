@@ -8,17 +8,23 @@ I'm a former entrepreneur turned IT professional, now pursuing a career in cyber
 After transitioning into an IT career,  I have developed a strong passion for cybersecurity.  I am now focusing on transitioning from IT support into InfoSec, specifically with the goal to join a Security Operations Center(SOC) or Incident Response team. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Endpoint Detection & Response (EDR) Configuration        | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Detection & Response (D&R) Rule Creation and Tuning        | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Incident Response & Triage Workflow            | <a href="#">Sliver + LimaCharlie Lab</a> |
+| C2 Simulation and Red Team Techniques         | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Privilege Escalation & Credential Dumping Detection | <a href="#">Sliver + LimaCharlie Lab</a> |
+| EDR Telemetry Analysis & Custom Detection Rules | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Threat Hunting with YARA & Sigma Rules        | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Log Analysis & Event Correlation              | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Virtualization & Infrastructure Management    | <a href="#">Proxmox + OPNsense Lab</a> |
+| Firewall Configuration & Network Segmentation | <a href="#">Proxmox + OPNsense Lab</a> |
+| System Administration (Linux & Networking)    | <a href="#">Proxmox + OPNsense Lab</a> |
+| Virtual Lab Deployment & Multi-OS Simulation   |<a href="#">Proxmox + OPNsense Lab</a> |
 
 ## Tools
 
@@ -32,6 +38,7 @@ After transitioning into an IT career,  I have developed a strong passion for cy
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie_EDR-1B1F23?&style=for-the-badge&logoColor=white" /> </div>
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
