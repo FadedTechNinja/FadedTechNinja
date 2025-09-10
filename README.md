@@ -13,14 +13,14 @@ After transitioning into an IT career,  I have developed a strong passion for cy
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Endpoint Detection & Response (EDR) Configuration        | <a href="#">Sliver + LimaCharlie Lab</a> |
-| Detection & Response (D&R) Rule Creation and Tuning        | <a href="#">Sliver + LimaCharlie Lab</a> |
-| Incident Response & Triage Workflow            | <a href="#">Sliver + LimaCharlie Lab</a> |
-| C2 Simulation and Red Team Techniques         | <a href="#">Sliver + LimaCharlie Lab</a> |
-| Privilege Escalation & Credential Dumping Detection | <a href="#">Sliver + LimaCharlie Lab</a> |
-| EDR Telemetry Analysis & Custom Detection Rules | <a href="#">Sliver + LimaCharlie Lab</a> |
-| Threat Hunting with YARA & Sigma Rules        | <a href="#">Sliver + LimaCharlie Lab</a> |
-| Log Analysis & Event Correlation              | <a href="#">Sliver + LimaCharlie Lab</a> |
+| Endpoint Detection & Response (EDR) Configuration        | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab Lab</a> |
+| Detection & Response (D&R) Rule Creation and Tuning        | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab </a> |
+| Incident Response & Triage Workflow            | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab </a> |
+| C2 Simulation and Red Team Techniques         | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab </a> |
+| Privilege Escalation & Credential Dumping Detection | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab </a> |
+| EDR Telemetry Analysis & Custom Detection Rules | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab </a> |
+| Threat Hunting with YARA & Sigma Rules        | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab </a> |
+| Log Analysis & Event Correlation              | <a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab#">SOC Lab </a> |
 | Virtualization & Infrastructure Management    | <a href="#">Proxmox + OPNsense Lab</a> |
 | Firewall Configuration & Network Segmentation | <a href="#">Proxmox + OPNsense Lab</a> |
 | System Administration (Linux & Networking)    | <a href="#">Proxmox + OPNsense Lab</a> |
@@ -62,5 +62,5 @@ After transitioning into an IT career,  I have developed a strong passion for cy
 </div>
 
 ## Projects
-- Detection Lab
+<a href="https://github.com/FadedTechNinja/SOC-Analyst-Lab">SOC Lab</a>
 - Network Security
